@@ -10,6 +10,8 @@ the notes of the version's GitHub Release.
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-26
+
 ### Added
 
 - Control of Sky Q and Sky+ HD set-top boxes over the local network, with the
@@ -35,4 +37,5 @@ the notes of the version's GitHub Release.
 - `SECURITY.md`, `CLAUDE.md`, CI (format, lint, tests on Node 22 and 24,
   Docker build) and the Release workflow of the official template.
 
-[Unreleased]: https://github.com/gboulvin/Gladys-Sky-Remote-Control/commits/main
+[Unreleased]: https://github.com/gboulvin/Gladys-Sky-Remote-Control/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/gboulvin/Gladys-Sky-Remote-Control/releases/tag/v1.0.0

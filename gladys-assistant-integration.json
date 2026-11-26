@@ -8,8 +8,8 @@
     "de": "Steuern Sie Ihre Sky Q und Sky+ HD Receiver lokal über Gladys.",
     "es": "Controle sus decodificadores Sky Q y Sky+ HD desde Gladys en su red local."
   },
-  "version": "0.0.0",
-  "docker_image": "ghcr.io/gboulvin/gladys-sky-remote-control:0.0.0",
+  "version": "1.0.0",
+  "docker_image": "ghcr.io/gboulvin/gladys-sky-remote-control:1.0.0",
   "gladys_version": ">=5.3.0",
   "cover_image": "https://raw.githubusercontent.com/gboulvin/Gladys-Sky-Remote-Control/main/cover.png",
   "categories": ["multimedia"],
